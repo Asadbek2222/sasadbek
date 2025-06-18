@@ -33,7 +33,7 @@
 
 ### 📄 Резюме
 
-- 📥 [Скачать резюме (PDF)](https://hh.uz/resume/1e434a7bff0efce3f30039ed1f5a7038456f49)
+- 📥 [Посмотреть резюме](https://hh.uz/resume/1e434a7bff0efce3f30039ed1f5a7038456f49)
 
 ---
 
