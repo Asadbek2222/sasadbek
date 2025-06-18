@@ -27,11 +27,11 @@
 
 | Название   | Описание                              | Ссылка                                      |
 |------------|---------------------------------------|---------------------------------------------|
-| Market     | Сайт с товарами, сортировкой и Swiper | https://github.com/sasadbek/Market.git      |
+| Market     | Сайт с товарами, сортировкой и Swiper | https://github.com/Asadbek2222/Market.git   |
 
 ---
 
 ### 📬 Контакты
 
 - 📱 Telegram: [@CreeperBc](https://t.me/CreeperBc)  
-- ✉️ Email: asadbekmamajonov11@gmail.com
+- ✉️ Email: klyopa2222@gmail.com
